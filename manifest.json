@@ -1,6 +1,6 @@
 {
-    "name": "fin_tracker",
-    "short_name": "fin_tracker",
+    "name": "FinTracker",
+    "short_name": "FinTracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -10,7 +10,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/play_store_512.png",
             "sizes": "192x192",
             "type": "image/png"
         },
