@@ -1,6 +1,6 @@
 {
-    "name": "fin_tracker",
-    "short_name": "fin_tracker",
+    "name": "FinTracker",
+    "short_name": "FinTracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
